@@ -1,0 +1,18 @@
+dataset,indicador,grupo,clientes,cancelaciones,tasa_churn_pct
+suscripción,IND-1 uso semanal,bajo (<=5 h),523,399,76.3
+suscripción,IND-1 uso semanal,medio (5-15 h),1100,575,52.3
+suscripción,IND-1 uso semanal,alto (>15 h),1177,631,53.6
+suscripción,IND-2 días sin iniciar sesión,0-14 días,709,297,41.9
+suscripción,IND-2 días sin iniciar sesión,15-29 días,690,383,55.5
+suscripción,IND-2 días sin iniciar sesión,30-60 días,1401,925,66.0
+suscripción,IND-3 tickets de soporte,0-2 tickets,994,490,49.3
+suscripción,IND-3 tickets de soporte,3-5 tickets,882,512,58.0
+suscripción,IND-3 tickets de soporte,6-8 tickets,924,603,65.3
+suscripción,IND-4 fallos de pago,0-1 fallos,938,374,39.9
+suscripción,IND-4 fallos de pago,2-5 fallos,1862,1231,66.1
+telco,IND-5 llamadas a servicio al cliente,0-1 llamadas,2410,263,10.9
+telco,IND-5 llamadas a servicio al cliente,2-3 llamadas,1505,165,11.0
+telco,IND-5 llamadas a servicio al cliente,4+ llamadas,335,170,50.7
+telco,IND-6 uso diurno,bajo (<=150 min),1243,148,11.9
+telco,IND-6 uso diurno,medio (150-250 min),2584,243,9.4
+telco,IND-6 uso diurno,alto (>250 min),423,207,48.9
